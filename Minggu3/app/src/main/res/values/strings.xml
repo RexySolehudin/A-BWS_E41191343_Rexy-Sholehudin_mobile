@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Minggu3</string>
+    <string name="to">kepada</string>
+    <string name="subject">Subyek</string>
+    <string name="message">Pesan</string>
+    <string name="send">Kirim</string>
+    <string name="reminder">Pengingat</string>
+    <string name="done">Done</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
