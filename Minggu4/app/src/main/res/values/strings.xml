@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas4</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="desc_kawah_ijen">kawah ijen adalah</string>
+    <string name="desc_kawah_wurung">kawah wurung adalah</string>
+    <string name="desc_bromo">bromo adalah</string>
+    <string name="desc_pasir_putih">pasir putih adalah</string>
+    <string name="desc_teluk_love">teluk love adalah</string>
+    <string name="desc_pandawa">pandawa adalah</string>
+</resources>
